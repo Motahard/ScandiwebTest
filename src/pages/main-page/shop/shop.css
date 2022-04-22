@@ -1,0 +1,11 @@
+.shop-title {
+    font-weight: normal;
+    font-size: 42px;
+    margin: 100px 0px;
+}
+
+.category-items {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 50px 30px;
+}
